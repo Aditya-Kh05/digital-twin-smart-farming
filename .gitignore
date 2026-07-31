@@ -9,6 +9,7 @@ venv/
 
 # Generated files
 *.docx
+*.png
 papers_extract.txt
 new_paper_text.txt
 
@@ -25,3 +26,4 @@ desktop.ini
 
 # Papers (large PDFs - keep references in the report, not in repo)
 papers/
+system_architecture.png
