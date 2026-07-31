@@ -1,0 +1,287 @@
+
+--- AgriTwin-Sim_An_Interactive_Digital_Twin_Framework_for_AI-Driven_Smart_Farming.pdf ---
+AgriTwin-Sim: An Interactive Digital Twin
+Framework for AI-Driven Smart Farming
+Yassine Ben-Aboud*, Abdellatif Kobbane*
+∗ENSIAS, Mohammed V University in Rabat, Morocco
+Emails: {yassine.benaboud, abdellatif.kobbane}@ensias.um5.ac.ma
+Abstract—Modern agriculture faces unprecedented challenges
+requiring innovative solutions for enhanced productivity and
+sustainability. Digital Twins (DTs), coupled with Artificial In-
+telligence (AI) and the Internet of Things (IoT), offer a trans-
+formative paradigm for creating dynamic virtual replicas of
+agricultural systems. This paper introduces an advanced inter-
+active web-based Digital Twin framework designed to bridge
+the gap between virtual sensor data and intelligent, actionable
+insights for smart farming. The framework integrates a high-
+fidelity simulation core, encompassing sophisticated mathematical
+models for environmental dynamics and plant biophysiology, with
+a robust AI engine capable of complex analysis, prediction, and
+decision support. Simulated data from a virtual sensor network
+feeds the DT, enabling the AI to perform real-time assessments,
+identify anomalies, predict future states, and recommend opti-
+mized management actions. The entire system is exposed through
+an intuitive and visually rich web interface that facilitates
+interactive exploration, scenario analysis, and direct visualization
+of the DT’s evolution and the AI’s reasoning. We demonstrate
+the framework’s architecture, the formal underpinnings of its
+key compo
+--- AI-Powered_Predictive_Maintenance_System_for_Smart_Agriculture_Using_IoT_and_Cloud_Computing.pdf ---
+ 
+ 
+ 
+ 
+ 
+ 
+AI-Powered Predictive Maintenance System for Smart 
+Agriculture Using IoT and Cloud Computing 
+Arockia Shermila S  
+Artificial Intelligence and Data Science  
+St.Joseph’s Institute of Technology  
+Chennai, India 
+sharmishar47@gmail.com 
+ Arockia Franciska W 
+Artificial Intelligence and Data Science  
+St.Joseph’s Institute of Technology  
+Chennai, India 
+wfranciska01@gmail.com 
+  J Gold Beulah Patturose  
+Artificial Intelligence and Data Science  
+St.Joseph’s Institute of Technology  
+Chennai, India 
+beulahpattu@gmail.com 
+R Priscilla 
+Artificial Intelligence and Data Science  
+St.Joseph’s Institute of Technology  
+Chennai, India 
+prisci.christa@gmail.com 
+ 
+Abstract: Digital technology has significantly influenced 
+proactive farm equipment maintenance. This intelligent 
+farm maintenance system revolves around the predictive 
+maintenance of farm technology like tractors and 
+irrigation pumps with the help of IoT sensors. Equipment 
+condition is analyzed with real-time evaluation and 
+operational parameters are continuously collected and 
+transferred to the cloud using Azure IoT Hub. Data is 
+stored, processed, and visualized here with the help of 
+Azure Services in combination with Microsoft Azure ML. 
+The AI is able to analyze the data using time-series 
+forecasting and anomaly detection so that it can forecast 
+mechanical 
+failures. 
+Anticipating 
+mechanical 
+and 
+operational problems before they arise avoids unexpected 
+maintenance, saves money, and decreases th
+--- A_Cloud-IoT_Framework_for_Smart_Farming_and_Sustainable_Agri-Food_Management.pdf ---
+A Cloud-IoT Framework for Smart Farming and 
+Sustainable Agri-Food Management 
+ 
+1st Harish Reddy Gantla, 
+Asso Proff. Dept. of CSE, 
+Vignan Inst of Tech. and Science,  
+India  
+harsha.rex@gmail.com 
+ 
+2nd  Manvi Sharma,  
+Post Doctoral Fellow, Dept .of E C, 
+IET. Devi Ahilya Vishwavidyalya, 
+Indore, India 
+drmanvisharma1786@gmail.com 
+ 
+3rd Dr Anusha Preetham, 
+Asso. Proff. Dept. of CSE, 
+Dayananad Sagar College of 
+Engineering, India  
+anusharao-cs@dayanandasagar.edu 
+ 
+4th Dr. Pooja Nayak S,  
+Asso. Proff. Dept. of ISE,  
+Dayananda Sagar Acad. of Tech. and 
+Manag. India 
+pooja-ise@dsatm.edu.in 
+ 
+5th Dr. Udit Mamodiya, 
+Associate Professor, ,  
+FET, Poornima University, 
+Jaipur, Rajasthan, India  
+assoc.dean_research@poornima.edu.in 
+ 
+6th Dr Rakesh Dani, 
+Professor, Dept.  of HM 
+Graphic Era Deemed to be University,  
+India  
+rakeshdani@geu.ac.in
+ 
+      
+Abstract- Smart farming signifies a revolution in the sphere of 
+agriculture, combining the data-based intelligence with the use 
+of resources sustainably. The old farming system that is limited 
+by fragmented sensing and poor interoperability cannot 
+change dynamically to the climate variability and diverse soils. 
+The current IoT-based platforms are not yet capable of 
+providing low-latency analytics, safe interoperability, and 
+cross-domain 
+data 
+incorporation 
+among 
+heterogeneous 
+gadgets. To overcome such difficulties, this paper presents a 
+Cloud-IoT Framework of Smart Farming and Sustainable 
+Agri-Food 
+Manageme
+--- A_smart_agricultural_model_by_integrating_IoT_mobile_and_cloud-based_big_data_analytics.pdf ---
+A Smart Agricultural Model by Integrating IoT, 
+Mobile and Cloud-based Big Data Analytics 
+S. RAJESWARI 
+Research Scholar, 
+Department of Computer 
+Applications, 
+Kalasalingam University, 
+Krishnankoil, Srivilliputtur, 
+Tamilnadu, India. 
+s.rajeswari30@gmail.com
+K. SUTHENDRAN 
+Associate Professor, 
+Department of Information 
+Technology, 
+Kalasalingam University, 
+Krishnankoil, Srivilliputtur, 
+Tamilnadu, India. 
+k.suthendran@klu.ac.in
+K. RAJAKUMAR 
+Associate Professor, 
+Department of Information 
+Technology, 
+Kalasalingam University, 
+Krishnankoil, Srivilliputtur, 
+Tamilnadu, India. 
+rajakumarkk@gmail.com 
+Abstract—Nowadays, the traditional database paradigm does 
+not have enough storage for the data produced by Internet of 
+Things (IoT) devices leads to the need of cloud storage.  These 
+data’s are analyzed with the help of Big Data mining techniques. 
+Cloud based big data analytics and the IoT technology performs 
+an important role in the feasibility study of smart agriculture. 
+Smart or precision agricultural systems are estimated to play an 
+essential role in improving agriculture activities. Mobile device 
+usage is very common by everyone, including the farmers. In that, 
+in the daily life of farmers the Information and Communication 
+Technologies (ICT) play a vital role to get the agricultural 
+Information. The IoT has various applications in Digital 
+Agriculture domain like monitoring the crop growth, selection of 
+the fertilizer, irrigation decision support system, et
+--- Conceptual framework for Smart 4.0 Hydroponic.pdf ---
+Proc. of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME 2025)  
+16-19 October 2025, Zanzibar, Tanzania 
+979-8-3315-3556-8/25/$31.00 ©2025 IEEE 
+Conceptual framework for Smart 4.0 Hydroponic 
+Farming: A Data-Driven Approach to Sustainable 
+Agriculture 
+Federico Briatore  
+ DIME 
+ University of Genoa 
+ Genoa, Italy 
+federico.briatore@edu.unige.it 
+Stefano Marchesi 
+DIME 
+Genoa, Italy 
+S4814395@studenti.unige.it 
+Tsega Y. Melesse 
+Tsega Y. Melesse
+DIMCM 
+University of Cagliari 
+Cagliari, Italy 
+tsegayenew.melesse@unica.it 
+Simone Arena 
+DIMCM 
+University of Cagliari 
+Cagliari, Italy 
+simone.arena@unica.it 
+Mattia Braggio 
+DIMCM 
+University of Cagliari 
+Cagliari, Italy 
+mattia.braggio@unica.it 
+Abstract— Purpose. Global population growth leads to 
+increasing food demand. Hydroponics farming is a resource-
+efficient solution to eliminate soil dependency. The research 
+focuses on integrating IoT sensors, Machine Learning (ML) and 
+Big Data Analytics into a fully automated, self-regulating 
+agricultural ecosystem to maximize crop yield, resource efficiency 
+and sustainability. Method. After an extensive literature review to 
+analyse the ideal environmental conditions and the latest smart 
+agriculture 
+technologies, 
+the 
+framework 
+was 
+developed 
+integrating I4.0. Finally, the benefits have been evaluated. 
+Findings. IoT for continuous real-time monitoring ensures precise 
+control over nutrient delivery, water usage and en
+--- Digital Twins in Architecture.pdf ---
+Digital Twins in Agriculture: Orchestration and Applications
+Marc Escribà-Gelonch,* Shu Liang, Pieter van Schalkwyk, Ian Fisk, Nguyen Van Duc Long,
+and Volker Hessel*
+Cite This: J. Agric. Food Chem. 2024, 72, 10737−10752
+Read Online
+ACCESS
+Metrics & More
+Article Recommendations
+ABSTRACT: Digital Twins have emerged as an outstanding opportunity for precision farming, digitally replicating in real-time the
+functionalities of objects and plants. A virtual replica of the crop, including key agronomic development aspects such as irrigation,
+optimal fertilization strategies, and pest management, can support decision-making and a step change in farm management,
+increasing overall sustainability and direct water, fertilizer, and pesticide savings. In this review, Digital Twin technology is critically
+reviewed and framed in the context of recent advances in precision agriculture and Agriculture 4.0. The review is organized for each
+step of agricultural lifecycle, edaphic, phytotechnologic, postharvest, and farm infrastructure, with supporting case studies
+demonstrating direct benefits for agriculture production and supply chain considering both benefits and limitations of such an
+approach. Challenges and limitations are disclosed regarding the complexity of managing such an amount of data and a multitude of
+(often) simultaneous operations and supports.
+KEYWORDS: Digital Twins, Internet of Things, precise agriculture, agriculture 4.0, Industry 4.0
+1. INTRODUCTION
+The rise of the world
+--- the-livestock-farming-digital-transformation-implementation-of-new-and-emerging-technologies-using-artificial-intelligence.pdf ---
+Animal Health Research
+Reviews
+cambridge.org/ahr
+Review
+Cite this article: Fuentes S, Gonzalez Viejo C,
+Tongson E, Dunshea FR (2022). The livestock
+farming digital transformation:
+implementation of new and emerging
+technologies using artificial intelligence.
+Animal Health Research Reviews 23, 59–71.
+https://doi.org/10.1017/S1466252321000177
+Received: 5 June 2021
+Revised: 29 July 2021
+Accepted: 16 November 2021
+First published online: 9 June 2022
+Key words:
+Animal welfare; biometrics; computer vision;
+deep learning; machine learning
+Author for correspondence:
+Sigfredo Fuentes,
+E-mail: sigfredo.fuentes@unimelb.edu.au
+© The Author(s), 2022. Published by
+Cambridge University Press. This is an Open
+Access article, distributed under the terms of
+the Creative Commons Attribution licence
+(http://creativecommons.org/licenses/by/4.0/),
+which permits unrestricted re-use, distribution
+and reproduction, provided the original article
+is properly cited.
+The livestock farming digital transformation:
+implementation of new and emerging
+technologies using artificial intelligence
+Sigfredo Fuentes1
+, Claudia Gonzalez Viejo1
+, Eden Tongson1
+and Frank R. Dunshea1,2
+1Digital Agriculture, Food and Wine Sciences Group, School of Agriculture and Food, Faculty of Veterinary and
+Agricultural Sciences, The University of Melbourne, Parkville, VIC 3010, Australia and 2Faculty of Biological
+Sciences, The University of Leeds, Leeds LS2 9JT, UK
+Abstract
+Livestock welfare assessment helps monitor animal health 
